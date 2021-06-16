@@ -1,0 +1,3 @@
+#!/bin/bash
+echo el usuario $USER usando $SHELL desde el directorio $HOME
+echo el identidicador de este scrip es: $$

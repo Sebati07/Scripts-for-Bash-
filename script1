@@ -1,0 +1,9 @@
+#!/bin/bash
+echo el primer parametro es: $1
+echo el segundo parametro es: $2
+echo el tercer parametro es: $3
+echo el cuarto parametro es: $4
+echo el quinto parametro es: $5
+echo hay $# de parametros en este script
+echo los primeros 3 parametros son: $1 , $2 , $3
+echo todo el Script ejecuta dice: $@
